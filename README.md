@@ -28,4 +28,4 @@ Yes, by intercepting the request and adding a fake page that contains a maliciou
 snapchat : [uur_2v](https://www.snapchat.com/add/uur_2v)
 
 
-**NB ! : The programmer of the tool will not bear any consequences and any responsibility for any wrong use **
+**NB ! : The programmer of the tool will not bear any consequences and any responsibility for any wrong use**
