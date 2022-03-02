@@ -1,4 +1,3 @@
-
 **mitmV2**
 
 **1. what is MITM ?**
@@ -21,10 +20,10 @@ Yes, by intercepting the request and adding a fake page that contains a maliciou
 
  1. An operating system that supports the Bash language
  2. Wireshark or dsniff
- 2. arpspoof
+ 3. arpspoof
 
 **How to download ?**
 
     git clone https://github.com/Az0122/mitmV2.git && cd mitmV2 && chmod +x mitmV2.sh && ./mitmV2.sh
 
-**NB ! : The programmer of the tool will not bear any consequences and any responsibility for any wrong use (in short,, I will not take any responsibility towards you)**
+**NB ! : The programmer of the tool will not bear any consequences and any responsibility for any wrong use **
