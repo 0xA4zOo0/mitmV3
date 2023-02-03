@@ -18,7 +18,7 @@ Yes, by intercepting the request and adding a fake page that contains a maliciou
 **How to download ?**
 
     git clone https://github.com/Az0122/mitmV3.git && cd mitmV3 && chmod +x mitmV3.sh && ./mitmV3.sh
-**connect with me <3 **
+**connect with me**
 
 <a target="_blank" href="https://instagram.com/r7jhz1/">
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="22" height="22">
