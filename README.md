@@ -1,9 +1,9 @@
 **mitmV2**
 
 **1. what is MITM ?**
-<hr/>
+-------------------------
 A man-in-the-middle (MITM) attack is a form of eavesdropping where communication between two users is monitored and modified by an unauthorized party. Generally, the attacker is actively eavesdropping by intercepting the public key message exchange and resending the message while replacing the requested key alone.
-
+<hr/>
 **2. How it works ?**
 --------------------------
 ![enter image description here](https://d.top4top.io/p_22521t9bk1.png)
