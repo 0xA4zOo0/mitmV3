@@ -26,4 +26,7 @@ Yes, by intercepting the request and adding a fake page that contains a maliciou
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="22" height="22">
 </a>
 <br/>
-**NB ! : The programmer of this tool will not bear any consequences and any responsibility for any wrong use only for education purpose **
+<br/>
+<br/>
+
+**NB ! : The programmer of this tool will not bear any consequences and any responsibility for any wrong use only for education purpose**
