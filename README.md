@@ -8,7 +8,8 @@ A man-in-the-middle (MITM) attack is a form of eavesdropping where communication
 
 **2. How it works ?**
 --------------------------
-![enter image description here](https://d.top4top.io/p_22521t9bk1.png)
+
+<img align="center" width="500" height="340" src="https://d.top4top.io/p_22521t9bk1.png"/>
 
 **3. Can devices get hacked through it?**
 -------------------------------------------------
