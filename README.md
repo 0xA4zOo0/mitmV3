@@ -17,8 +17,9 @@ Yes, by intercepting the request and adding a fake page that contains a maliciou
  
 **How to download ?**
 
-    git clone https://github.com/Az0122/mitmV2.git && cd mitmV2 && chmod +x mitmV2.sh && ./mitmV2.sh
-snapchat : [uur_2v](https://www.snapchat.com/add/uur_2v)
-
-
-**NB ! : The programmer of the tool will not bear any consequences and any responsibility for any wrong use**
+    git clone https://github.com/Az0122/mitmV3.git && cd mitmV3 && chmod +x mitmV3.sh && ./mitmV3.sh
+**connect with me <3 **
+<a target="_blank" href="https://instagram.com/r7jhz1/">
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="22" height="22">
+</a>
+**NB ! : The programmer of this tool will not bear any consequences and any responsibility for any wrong use only for education purpose ****
