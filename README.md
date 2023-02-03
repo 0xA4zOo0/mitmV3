@@ -21,7 +21,7 @@ Yes, by intercepting the request and adding a fake page that contains a maliciou
 
 **How to download ?**
 
-    git clone https://github.com/Az0122/mitmV3.git && cd mitmV3 && chmod +x mitmV3.sh && ./mitmV3.sh
+    git clone https://github.com/Az0122/mitmV3.git && cd mitmV3 && chmod +x mitmV3.sh && sudo ./mitmV3.sh
     
 ------------------------------------------------
 **connect with me**
